@@ -8,9 +8,6 @@ let alertSuccess = document.querySelector(".alert-success");
 let alertInfo = document.querySelector(".alert-info");
 let alertError = document.querySelector(".alert-error");
 
-/* old token */ // let token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhhemFyZEBzb2NjZXIuY29tIiwidXNlcklkIjoiJDJiJDEwJEhiRFZaYWZCUG9mQk5Rb0ZQZEtaMi4zem1heTZPUVlKMElkRU9CUlZXaWE5Zmk0VUs3dG9TIiwiaWF0IjoxNTY3MTc2MTc2LCJleHAiOjE1NjcyNjI1NzZ9.-vD3ISCAlUUEtwXHYz8fOe6OBgebApUZBgsV3PE4eOw';
-let token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhhemFyZEBzb2NjZXIuY29tIiwidXNlcklkIjoiJDJiJDEwJEhiRFZaYWZCUG9mQk5Rb0ZQZEtaMi4zem1heTZPUVlKMElkRU9CUlZXaWE5Zmk0VUs3dG9TIiwiaWF0IjoxNTcxNzk5NjgzLCJleHAiOjE1NzE4ODYwODN9.pr2ajLU49L1_0ME9jrRpsLEuWEnVgcLaa7Jr4AYqQ1s';
-
 let headers = {
     'Accept': 'application/json',
     'Content-Type': 'application/json',
