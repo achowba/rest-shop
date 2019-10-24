@@ -1,0 +1,5 @@
+1. Delete order(s) for a product when that product is deleted
+2. Add userID when an order is being created
+3.
+4.
+5.
